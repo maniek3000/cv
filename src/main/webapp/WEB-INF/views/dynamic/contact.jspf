@@ -1,0 +1,5 @@
+<%--<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>--%>
+<a href='<c:url value="https://www.facebook.com/maniek3000"/>' class="facebook"><i class="bx bxl-facebook"></i></a>
+<%--<a href='<c:url value="#"/>' class="instagram"><i class="bx bxl-instagram"></i></a>--%>
+<a href='<c:url value="#"/>' class="google-plus"><i class="bx bxl-skype"></i></a>
+<a href='<c:url value="#"/>' class="linkedin"><i class="bx bxl-linkedin"></i></a>
